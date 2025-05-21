@@ -1,1 +1,3 @@
 random click or (now&then) stores your very own selfie and what's on your screen, an open source initiative to make you smile when the camera light winks at you
+
+have implemented firebase for email or goole authentication
